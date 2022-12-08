@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm Tomal! 👋 <br>
+    <b> Hi, I'm Tomal! </b> 👋 <br>
     🔥 Senior Software Engineer, passionate about learning something new  <br>
     :sparkles: Favorite Tech: C#, .NET Core Web API, Blazor, JavaScript, Angular, Typescript <br>
     :notebook: I’m currently learning .NET MAUI and Vue.js  <br>
