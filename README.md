@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**tomal-hossain/tomal-hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    Hi, I'm Tomal! 👋 <br>
+    🔥 Senior Software Engineer, passionate about learning something new  <br>
+    :sparkles: Favorite Tech: C#, .NET Core Web API, Blazor, JavaScript, Angular, Typescript <br>
+    :notebook: I’m currently learning .NET MAUI and Vue.js  <br>
+    :email:	tomalhossain.tm@gmail.com <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/tomal88 <br>
+  </samp>
+</p>
